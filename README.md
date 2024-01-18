@@ -1,4 +1,4 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+泛亚支付，菲顶级集团打造金流服务商。提供国际支付代付通道。包括以下国家的支付代付通道、菲律宾、巴西、泰国、尼日利亚、新加坡、日本、马来西亚、印尼、印度等三十个国家支付代付通道，以及USDT等虚拟币货代收代付通道。
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+开户咨询热线：https://t.me/fanyazhifu
+Telegram频道：https://t.me/aviapays
