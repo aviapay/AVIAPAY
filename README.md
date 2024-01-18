@@ -3,3 +3,10 @@
 开户咨询热线：https://t.me/fanyazhifu
 
 Telegram频道：https://t.me/aviapays
+
+菲律宾支付通道：GCASH个人码/GCASH原生通道。MAYA个人码通道/MAYA原生通道，代付API。
+越南支付通道：银行卡直连及扫码通道，MOMO H5通道，ViettelPay通道，ZaloPay通道，代付API通道。
+巴西支付通道：巴西原生PIX通道。
+新加坡银行卡通道。
+日本银行卡通道。
+印尼银行卡通道。
