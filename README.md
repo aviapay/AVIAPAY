@@ -5,7 +5,7 @@
    <tbody>
      <tr class="Box-sc-g0xbh4-0 dApGZs"><td><b>👍开户咨询热线：</b></td><td><a href=https://t.me/fanyazhifu>https://t.me/fanyazhifu</a><p>Telegram搜索 @fanyazhifu</p></td></tr>
     <tr class="Box-sc-g0xbh4-0 dApGZs"><td><b>👍Telegram频道：</b></td><td><a href=https://t.me/aviapays>https://t.me/aviapays</a><p>Telegram搜索 @aviapays</p></td></tr>
-    <tr class="Box-sc-g0xbh4-0 dApGZs"><td><b>👍国际支付论坛：</b></td><td><a href=https://github.com/aviapay/AVIAPAY/discussions/2>点击进入《国际支付通道论坛》</a><p>汇聚全球通道,合作互赢未来</p></td></tr>
+    <tr class="Box-sc-g0xbh4-0 dApGZs"><td><b>👍国际支付论坛：</b></td><td><a href=https://github.com/aviapay/AVIAPAY/discussions/>点击进入《国际支付通道论坛》</a><p>汇聚全球通道,合作互赢未来</p></td></tr>
    </tbody>
 </table1><div>
 <h1></h1>
