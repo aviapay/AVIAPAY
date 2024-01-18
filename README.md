@@ -8,7 +8,7 @@
 </ul>
 </div>
 <div>
-  <p>🧑👼💰国际支付通道论坛：<a href=https://github.com/aviapay/AVIAPAY/discussions/2>[国际支付通道论坛]</a></p>
+   ```xxxx```🧑👼💰国际支付通道论坛：<a href=https://github.com/aviapay/AVIAPAY/discussions/2>[国际支付通道论坛]</a>
 </div>
 <ul>
   <li>菲律宾支付通道：GCASH个人码/GCASH原生通道。MAYA个人码通道/MAYA原生通道，代付API。</li>
