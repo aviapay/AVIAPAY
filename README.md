@@ -7,7 +7,9 @@
 <li><b>👍Telegram频道：</b>https://t.me/aviapays</li>
 </ul>
 </div>
-  <p></p>
+<div>
+  <p>🧑👼💰国际支付通道论坛：https://github.com/aviapay/AVIAPAY/discussions/2</p>
+</div>
 <ul>
   <li>菲律宾支付通道：GCASH个人码/GCASH原生通道。MAYA个人码通道/MAYA原生通道，代付API。</li>
   <li>越南支付通道：银行卡直连及扫码通道，MOMO H5通道，ViettelPay通道，ZaloPay通道，代付API通道。</li>
